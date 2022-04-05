@@ -1,0 +1,8 @@
+.menu_container{
+    padding-top: 20px;
+}
+.menu_container a{
+    font-size: 22px;
+    font-weight: bold;
+    margin-right: 10px;
+}
